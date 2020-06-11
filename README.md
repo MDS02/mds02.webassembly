@@ -11,3 +11,10 @@ oppervlakte(7)
 
 rekenmachine(10,20,4)
 ->0.5
+
+Rekenmachine heeft 4 verschillende functies:
+
+- Functie 1 = optellen
+- Functie 2 = aftrekken
+- Functie 3 = keer
+- Functie 4 = gedeeld door
