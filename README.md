@@ -18,3 +18,5 @@ Rekenmachine heeft 4 verschillende functies:
 - Functie 2 = aftrekken
 - Functie 3 = keer
 - Functie 4 = gedeeld door
+
+De derde parameter die je meegeeft is de functie die de rekenmachine moet uitvoeren.
