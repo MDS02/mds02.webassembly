@@ -8,3 +8,6 @@ Voorbeelden:
 
 oppervlakte(7)
 -> 49
+
+rekenmachine(10,20,4)
+->0.5
